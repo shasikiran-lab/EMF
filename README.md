@@ -35,7 +35,8 @@ iii. All on the same surface of the dielectric substrate.
 
 iv. This unique geometry allows excellent performance for modern communication circuits such as antennas, filters, mixers, phase shifters, and integrated circuits. 
 
-<img width="715" height="336" alt="Screenshot 2025-11-14 at 9 26 53 AM" src="https://github.com/user-attachments/assets/061090ad-f032-4dfd-8196-7a07ff09a028" />
+
+![co-planar-waveguide-in-rf-pcb](https://github.com/user-attachments/assets/ce4a7126-39b6-4980-b7fb-9126a9028607)
 
 
 ### 4. Structure of CPW (Elaborated) 
