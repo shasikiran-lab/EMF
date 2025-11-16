@@ -59,8 +59,9 @@ Common materials include FR-4, Rogers RT/Duroid, Silicon, GaAs, etc.
 
 #### 5. No Backside Ground Plane (Important) 
 All elements lie on the same plane, making CPW different from microstrip. 
+![multi-layer-microstrip-line](https://github.com/user-attachments/assets/99d475ef-e9b7-47fa-9512-b7b0e0d12104)
 
-<img width="773" height="407" alt="Screenshot 2025-11-14 at 9 29 39 AM" src="https://github.com/user-attachments/assets/07b906e9-67e7-4f2c-863d-f9ce8185fca0" />
+
 
 ### 5. Modes of Propagation 
 CPW primarily supports: 
