@@ -81,7 +81,7 @@ iii. Suitable for wide frequency operation
 Because fields are not perfectly transverse due to finite substrate height. 
 But still very close to TEM → low dispersion. 
 
-<img width="712" height="479" alt="Screenshot 2025-11-14 at 9 31 02 AM" src="https://github.com/user-attachments/assets/ecf683ad-8ab8-4518-964c-f9a3002c8f8c" />
+
 
 
 ### 6. Mathematical Formulation (Detailed) 
